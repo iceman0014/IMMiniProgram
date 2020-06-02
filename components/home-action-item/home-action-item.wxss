@@ -1,0 +1,25 @@
+/* components/hom-action-item.wxss */
+
+@import "/app.wxss";
+
+.apge {
+  width: 166rpx;
+  height: 140rpx;
+  border-radius: 10rpx;
+}
+
+.title {
+  margin-left: 30rpx;
+  margin-top: 40rpx;
+}
+
+.sub_title {
+  margin-left: 30rpx;
+  margin-top: 10rpx;
+}
+
+.image {
+  position: absolute;
+  bottom: 20rpx;
+  right: 20rpx;
+}

@@ -1,0 +1,27 @@
+/**app.wxss**/
+
+/* 字体颜色 */
+.color_240 { color: rgb(240, 240, 240)}
+.color_178 { color: rgb(178, 178, 178)}
+.color_136 { color: rgb(136, 136, 136)} 
+.color_229 { color: rgb(229, 229, 229)} 
+.color_black { color: black}
+.color_white { color: #ffffff}
+.color_theme { color: #15AE67 }
+
+/* 字体大小 */
+.font_size_18 { font-size: 18rpx;}
+.font_size_20 { font-size: 20rpx;}
+.font_size_22 { font-size: 22rpx;}
+.font_size_24 { font-size: 24rpx;}
+.font_size_26 { font-size: 26rpx;}
+.font_size_28 { font-size: 28rpx;}
+.font_size_30 { font-size: 30rpx;}
+.font_size_32 { font-size: 32rpx;}
+
+.font_size_bold_24{ font-size: 24rpx; font-weight: 300rpx;}
+.font_size_bold_32 { font-size: 32rpx; font-weight: 300rpx;}
+
+/* 背景颜色 */
+.bg_color_240 { background: rgb(240, 240, 240);}
+.bg_color_244 { background: rgb(244, 244, 246);}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "home-action-item": "/components/home-action-item/home-action-item"
+  }
+  
+}

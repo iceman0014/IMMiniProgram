@@ -1,0 +1,7 @@
+<!--components/hom-action-item.wxml-->
+
+<view class="page bg_color_244">
+  <view class="title font_size_32 color_black">{{c_data.title}}</view>
+  <view class="sub-title font_size_28 color_136">{{c_data.subtitle}}</view>
+  <image class="image">{{c_data.image}}</image>
+</view>

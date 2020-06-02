@@ -1,0 +1,37 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/mall/mall",
+    "pages/profile/profile"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "FastMed",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "Home",
+        "iconPath": "assets/tabbar/ic_home_n.png",
+        "selectedIconPath": "/assets/tabbar/ic_home_a.png"
+      },
+      {
+        "pagePath": "pages/mall/mall",
+        "text": "Mall",
+        "iconPath": "assets/tabbar/ic_consult_n.png",
+        "selectedIconPath": "/assets/tabbar/ic_consult_a.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "My Account",
+        "iconPath": "assets/tabbar/ic_profile_n.png",
+        "selectedIconPath": "/assets/tabbar/ic_profile_a.png"
+      }
+    ]
+  }
+}

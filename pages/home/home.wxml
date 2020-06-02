@@ -1,0 +1,8 @@
+<!--pages/home/home.wxml-->
+<image></image>
+
+<view>
+  <block wx:for="{{actions}}" wx:key="index">
+    <home-action-item c_data="{{item}}" />
+  </block>
+</view>
